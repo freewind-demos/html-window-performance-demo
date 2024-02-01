@@ -1,5 +1,5 @@
 {
-    "scripts": {
-        "start": "open index.html"
-    }
+  "scripts": {
+    "start": "open index.html"
+  }
 }
